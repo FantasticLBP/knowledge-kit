@@ -1,0 +1,30 @@
+{
+  "name": "knowledge-kit",
+  "version": "1.0.0",
+  "description": "大前端知识小集",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FantasticLBP/knowledge-kit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FantasticLBP/knowledge-kit/issues"
+  },
+  "homepage": "https://github.com/FantasticLBP/knowledge-kit#readme",
+  "devDependencies": {
+    "@commitlint/cli": "^8.3.5",
+    "@commitlint/config-conventional": "^8.3.4",
+    "husky": "^4.2.3"
+  },
+  "husky": {
+    "hooks": {
+        "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+    }
+  }
+}
