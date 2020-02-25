@@ -1,0 +1,23 @@
+# 第七部分
+
+第七部分主要记录在开发中遇到的工具经验或者效率工具总结。
+
+  * [1、命令行文件查找](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.1.md)
+  * [2、Charles 从入门到精通](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.2.md)
+  * [3、git常见使用](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.3.md)
+  * [4、Chrome 正确调试姿势](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.4.md)
+  * [5、Git 实用操作](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.5.md)
+  * [6、短链接](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.6.md)
+  * [7、移动端推送杂谈-part one](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.7.md)
+  * [8、iOS 隔了较久时间推送变得缓慢](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.8.md)
+  * [9、抓包工具的原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.9.md)
+  * [10、Mac 成吨提升效率的技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.10.md)
+  * [11、OKR](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.12.md)
+  * [12、面试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.13.md)
+  * [13、Markdown的妙用](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.14.md)
+  * [14、1995年的资深工程师，和你谈谈如何进阶](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.15.md)
+  * [15、区块链技术和比特币](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.16.md)
+  * [16、如何写一份夺目的简历](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.17.md)
+  * [17、一套开发规范](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.18.md)
+  * [18、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.19.md)
+  * [19、规范化团队 git 提交信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
