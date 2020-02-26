@@ -84,3 +84,5 @@
   * [78、上架包预检](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.78.md)
   * [79、深入理解各种锁](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.79.md)
   * [80、打造功能强大的数据上报组件](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
+  * [81、__asm__ 重命名符号](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.81.md)
+  
