@@ -10,7 +10,7 @@
   * [5、事件响应者链](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.5.md)
   * [6、外卖App双列表联动](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.6.md)
   * [7、在内存剖析对象](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.7.md)
-  * [8、长按UIWebView上的图片保存到相册](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.8.md)
+  * [8、教你实现微信公众号效果：长按图片保存到相册](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.8.md)
   * [9、hitTest和pointInside方法你真的熟吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.9.md)
   * [10、HyBrid探索（一）](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.10.md)
   * [11、iOS中的事件](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.11.md)
@@ -53,7 +53,7 @@
   * [48、OC类别（Catrgory）和拓展（Extension）](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.48.md)
   * [49、MVC、MVP、MVVM](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.49.md)
   * [50、“静态库”和“动态库”](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.50.md)
-  * [51、cocopod](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.51.md)
+  * [51、cocoapods 相关小技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.51.md)
   * [52、如何打造团队的代码风格统一以及开发效率的提升](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.52.md)
   * [53、iOS 数据持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.53.md)
   * [54、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.54.md)
@@ -84,7 +84,9 @@
   * [79、深入理解各种锁](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.79.md)
   * [80、打造功能强大的数据上报组件](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
   * [81、__asm__ 重命名符号](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.81.md)
-
+  * [82、runtime](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.82.md)
+  * [83、NSURLProtocol 应用场景](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.83.md)
+  * [84、WKWebView 技巧集合](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.84.md)
 
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
@@ -170,8 +172,7 @@
   * [15、区块链技术和比特币](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.16.md)
   * [16、如何写一份夺目的简历](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.17.md)
   * [17、一套开发规范](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.18.md)
-  * [18、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/
-  Chapter7%20-%20Geek%20Talk/7.19.md)
+  * [18、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.19.md)
   * [19、规范化团队 git 提交信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
 
 
