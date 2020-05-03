@@ -82,7 +82,7 @@
   * [77、iOS 打包系统构建加速](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.77.md)
   * [78、上架包预检](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.78.md)
   * [79、深入理解各种锁](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.79.md)
-  * [80、打造功能强大的数据上报组件](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
+  * [80、打造一个通用、可配置的数据上报 SDK](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
   * [81、__asm__ 重命名符号](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.81.md)
   * [82、runtime](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.82.md)
   * [83、NSURLProtocol 应用场景](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.83.md)
@@ -128,6 +128,7 @@
   * [37、前端工程化与 CI、CD](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.37.md)
   * [38、npm 改进之工程化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.38.md)
   * [39、前端模块化演进之路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
+  * [40、electron-PC端多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.40.md)
 
 * [Chapter3 - Server](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.1.md)
@@ -175,7 +176,7 @@
   * [17、一套开发规范](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.18.md)
   * [18、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.19.md)
   * [19、规范化团队 git 提交信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
-
+ * [20、如何画架构图](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.21.md)
 
 
 * [Chapter8 - Finance](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/chapter8.md)

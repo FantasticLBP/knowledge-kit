@@ -41,4 +41,4 @@
   * [37、前端工程化与 CI、CD](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.37.md)
   * [38、npm 改进之工程化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.38.md)
   * [39、前端模块化演进之路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
-
+  * [40、electron-PC端多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.40.md)
