@@ -82,7 +82,7 @@
   * [77、iOS 打包系统构建加速](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.77.md)
   * [78、上架包预检](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.78.md)
   * [79、深入理解各种锁](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.79.md)
-  * [80、打造一个通用、可配置的数据上报 SDK](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
+  * [80、打造一个通用、可配置、多句柄的数据上报 SDK](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.80.md)
   * [81、__asm__ 重命名符号](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.81.md)
   * [82、runtime](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.82.md)
   * [83、NSURLProtocol 应用场景](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.83.md)
