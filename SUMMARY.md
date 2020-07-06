@@ -77,7 +77,7 @@
   * [72、架构设计心得](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.72.md)
   * [73、Ruby学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.73.md)
   * [74、APM](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.74.md)  
-  * [75、如何写好测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.75.md)
+  * [75、写好测试，提升应用质量](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.75.md)
   * [76、iOS Crash分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.76.md)
   * [77、iOS 打包系统构建加速](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.77.md)
   * [78、上架包预检](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.78.md)
