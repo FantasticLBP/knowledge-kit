@@ -92,3 +92,5 @@
   * [86、GCD 源码探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.86.md)
   * [87、Objective-C 底层探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.87.md)
   * [88、fishhook 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.88.md)
+  * [89、block 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.89.md)
+  * [90、YYImage 框架原理，探索图片高效加载原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.90.md)
