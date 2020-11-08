@@ -93,6 +93,9 @@
   * [88、fishhook 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.88.md)
   * [89、block 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.89.md)
   * [90、YYImage 框架原理，探索图片高效加载原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.90.md)
+  * [91、二进制重排](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.91.md)
+  * [92、flutter 无痕埋点](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
+
 
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
@@ -136,8 +139,7 @@
   * [39、前端模块化演进之路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
   * [40、Electron：PC 端多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.40.md)
   * [41、sourceMap 闪亮登场](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.41.md)
-  * [42、weex 优化和原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.42.md)
-
+  
 * [Chapter3 - Server](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.1.md)
   * [2、网页端扫码登录实现原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.2.md)
@@ -189,16 +191,27 @@
 
 * [Chapter8 - Finance](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/chapter8.md)
   * [1、“账期”](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
-  * [2、亚洲金融危机两三谈](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.2.md)
-  * [3、提高利率的副作用](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.3.md)
-  * [4、白话贸易战](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.4.md)
-  * [5、股票的本质是帮助企业高飞](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.5.md)
-  * [6、需求是分层次的](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.6.md)
-  * [7、炒期货比炒股风险高的本质原因](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.7.md)
-  * [8、浅谈一带一路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.8.md)
-  * [9、隐形的投资你看得到吗](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.9.md)
-  * [10、存款准备金率的衍生知识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.10.md)
-  * [11、降准的魔法效应](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.11.md)
-  * [12、揭开″定向降准″的神秘面纱](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.12.md)
-  * [13、股市飘来了降准的芳香](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.13.md)
-  * [14、K线图学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.14.md)
+  * [2、亚洲金融危机两三谈](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [3、提高利率的副作用](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [4、白话贸易战](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [5、股票的本质是帮助企业高飞](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [6、需求是分层次的](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [7、炒期货比炒股风险高的本质原因](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [8、浅谈一带一路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [9、隐形的投资你看得到吗](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [10、存款准备金率的衍生知识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [11、降准的魔法效应](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [12、揭开″定向降准″的神秘面纱](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+  * [13、股市飘来了降准的芳香](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/8.1.md)
+
+
+* [Chapter9 - Ragdoll](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/chapter9.md)
+  * [1、"CFA 证书" 不再那么神秘](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.1.md)
+  * [2、猫咪饮食](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.2.md)
+  * [3、养猫心得与总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.3.md)
+  * [4、我的猫不吃生骨肉！别急，我来教你](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.4.md)
+  * [5、猫粮对你猫咪的牙齿做了什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.5.md)
+ 
+
+
+  

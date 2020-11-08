@@ -94,3 +94,5 @@
   * [88、fishhook 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.88.md)
   * [89、block 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.89.md)
   * [90、YYImage 框架原理，探索图片高效加载原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.90.md)
+  * [91、二进制重排](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.91.md)
+  * [92、flutter 无痕埋点](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
