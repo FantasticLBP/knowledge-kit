@@ -9,5 +9,6 @@
   * [4、我的猫不吃生骨肉！别急，我来教你](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.4.md)
   * [5、猫粮对你猫咪的牙齿做了什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.5.md)
   * [6、新猫到家的注意事项](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.6.md)
+  * [7、猫咪健康](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.7.md)
  
  
