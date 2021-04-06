@@ -163,6 +163,7 @@
   * [2、认识HTTP、TCP、UDP](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.2.md)
   * [3、你知道字节序吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.3.md)
   * [4、自定义报头协议](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.4.md)
+  * [5、iOS 端底层网络错误](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.5.md)
 
 * [Chapter6 - Design Pattern](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/chapter7.md)
   * [1、声明式与命令式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.1.md)
