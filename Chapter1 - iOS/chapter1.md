@@ -98,3 +98,4 @@
   * [92、flutter 无痕埋点](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
   * [93、flutter 新功能引导](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.93.md)
   * [94、APM-Wake Up](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.94.md)
+  * [95、从 flutter 和前端角度出发，聊聊单线程模型下如何保证 UI 流畅性](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.95.md)
