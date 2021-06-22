@@ -94,7 +94,7 @@
   * [89、block 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.89.md)
   * [90、YYImage 框架原理，探索图片高效加载原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.90.md)
   * [91、二进制重排](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.91.md)
-  * [92、flutter 无痕埋点](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
+  * [92、flutter 无痕埋点技术方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
   * [93、flutter 新功能引导](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.93.md)
   * [94、APM-Wake Up](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.94.md)
   * [95、从 flutter 和前端角度出发，聊聊单线程模型下如何保证 UI 流畅性](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.95.md)
