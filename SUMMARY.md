@@ -46,7 +46,7 @@
   * [41、iOS 应用启动性能优化资料汇总](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.41.md)
   * [42、App security](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.42.md)
   * [43、奇技淫巧调试篇](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.43.md)
-  * [44、Awesome Hybrid - 1](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.44.md)
+  * [44、一个 Hybrid SDK 设计与实现](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.44.md)
   * [45、NSTimer 的内存泄漏](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.45.md)
   * [46、KVC && KVO](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.46.md)
   * [47、金额格式化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.47.md)
