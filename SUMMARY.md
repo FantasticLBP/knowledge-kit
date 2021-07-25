@@ -126,7 +126,7 @@
   * [24、Chrome 调试技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.24.md)
   * [25、大前端动画](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.25.md)
   * [26、Linux 下安装 Node](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.26.md)
-  * [27、浏览器不通窗口之间的通信之道](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.27.md) 
+  * [27、浏览器不同窗口之间的通信之道](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.27.md) 
   * [28、神器Puppeteer](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.28.md)
   * [29、从Vue.js谈谈前端开发的技术栈演变](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.29.md)
   * [30、Javascript 常用工具封装](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.30.md)
@@ -216,7 +216,7 @@
   * [5、猫粮对你猫咪的牙齿做了什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.5.md)
   * [6、新猫到家的注意事项](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.6.md)
   * [7、猫咪健康](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.7.md)
- 
+
 
 
   
