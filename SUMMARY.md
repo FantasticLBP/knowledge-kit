@@ -98,6 +98,7 @@
   * [93、flutter 新功能引导](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.93.md)
   * [94、APM-Wake Up](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.94.md)
   * [95、从 flutter 和前端角度出发，聊聊单线程模型下如何保证 UI 流畅性](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.95.md)
+  * [96、一个提高 App 运算性能的想法](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.96.md)
 
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
@@ -152,6 +153,7 @@
   * [7、Node单元测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.7.md)
   * [8、数据安全（反爬虫）之「防重放」策略](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.8.md)
   * [9、爬取疫情数据并用 Markdown 预览](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.9.md)
+  * [10、领域驱动设计与中后台、BFF的关系](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.10.md)
   
 
 
@@ -190,6 +192,7 @@
   * [18、云服务器靠谱推荐](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.19.md)
   * [19、规范化团队 git 提交信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
   * [20、如何画架构图](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.21.md)
+  * [21、项目管理案例分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.22.md)
 
 
 * [Chapter8 - Finance](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter8%20-%20Finance/chapter8.md)
@@ -216,7 +219,3 @@
   * [5、猫粮对你猫咪的牙齿做了什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.5.md)
   * [6、新猫到家的注意事项](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.6.md)
   * [7、猫咪健康](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter9%20-%20Ragdoll/9.7.md)
-
-
-
-  

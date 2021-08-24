@@ -12,3 +12,4 @@
 * [7、Node单元测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.7.md)
 * [8、数据安全（反爬虫）之「防重放」策略](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.8.md)
 * [9、爬取疫情数据并用 Markdown 预览](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.9.md)
+* [10、领域驱动设计与中后台、BFF的关系](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.10.md)
