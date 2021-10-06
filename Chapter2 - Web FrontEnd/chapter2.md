@@ -43,3 +43,4 @@
   * [39、前端模块化演进之路](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.39.md)
   * [40、“Electron” 一个可圈可点的 PC 多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.40.md)
   * [41、sourceMap 闪亮登场](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.41.md)
+  * [42、JS原型链与Objective-C内存布局不能说的秘密](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.43.md)
