@@ -54,7 +54,7 @@
   * [49、MVC、MVP、MVVM](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.49.md)
   * [50、“静态库”和“动态库”](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.50.md)
   * [51、cocoapods 相关小技巧](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.51.md)
-  * [52、如何打造团队的代码风格统一以及开发效率的提升](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.52.md)
+  * [52、开发效率提升利器](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.52.md)
   * [53、iOS 数据持久化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.53.md)
   * [54、Xcode 设置作者信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.54.md)
   * [55、史上最强、最详细无痕埋点方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.55.md)
