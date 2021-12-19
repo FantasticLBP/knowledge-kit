@@ -102,3 +102,4 @@
   * [96、一个提高 App 运算性能的想法](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.96.md)
   * [97、__attribute__ 的骚操作](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.97.md)
   * [98、前端、BFF、后端一些常见的设计模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.98.md)
+  * [99、App 质量把控](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.99.md)
