@@ -63,7 +63,7 @@
   * [58、Swift每个版本迁移的总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.58.md)
   * [59、iOS零散知识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.59.md)
   * [60、App瘦身之道](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.60.md)
-  * [61、App启动时间优化](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.61.md)
+  * [61、App 启动时间优化与二进制重排](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.61.md)
   * [62、OCLint实现Code Review](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.62.md)
   * [63、苹果官方开源资料](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.63.md)
   * [64、组件化、模块化、插件、子应用、框架、库理解](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.64.md)
@@ -105,6 +105,10 @@
   * [100、iOS 端底层网络错误](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.100.md)
   * [101、离屏渲染](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.101.md)
   * [102、LLVM](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.102.md)
+  * [103、设计模式及其场景](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.103.md)
+  * [104、NSNotification底层原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.104.md)
+  * [105、iOS 界面渲染流程](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.105.md)
+  * [106、NSUserDefault 底层原理探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.106.md)
 * [Chapter2 - Web FrontEnd](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/chapter2.md)
   * [1、-last-child与-last-of-type你只是会用，有研究过区别吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.1.md)
   * [2、正则表达式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.2.md)
@@ -168,7 +172,7 @@
 
 
 * [Chapter5 - Network](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/chapter5.md)
-  * [1、HTTP请求头Range](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.1.md)
+  * [1、HTTP/HTTPS 细节探索](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.1.md)
   * [2、认识HTTP、TCP、UDP](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.2.md)
   * [3、你知道字节序吗？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.3.md)
   * [4、自定义报头协议](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter5%20-%20Network/5.4.md)
