@@ -4,7 +4,7 @@
 第一部分主要介绍 iOS 开发中遇到的问题或者有趣的知识
 
   * [1、工程大小优化之图片资源](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.1.md)
-  * [2、看透构造方法](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.2.md)
+://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.2.md)
   * [3、控制器加载的玄机](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.3.md)
   * [4、如何优雅地调试手机网页？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.4.md)
   * [5、事件响应者链](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.5.md)
@@ -94,7 +94,7 @@
   * [88、fishhook 原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.88.md)
   * [89、block 底层原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.89.md)
   * [90、YYImage 框架原理，探索图片高效加载原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.90.md)
-  * [91、DYLD](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.91.md)
+  * [91、DYLD 及 Mach-O](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.91.md)
   * [92、flutter 无痕埋点](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.92.md)
   * [93、flutter 新功能引导](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.93.md)
   * [94、APM-Wake Up](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.94.md)
@@ -110,3 +110,6 @@
   * [104、NSNotification底层原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.104.md)
   * [105、iOS 界面渲染流程](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.105.md)
   * [106、NSUserDefault 底层原理探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.106.md)
+  * [107、IM技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.107.md)
+  * [108、精准测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.108.md)
+  * [109、汇编学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.109.md)
