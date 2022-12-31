@@ -23,3 +23,4 @@
   * [19、规范化团队 git 提交信息](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.20.md)
   * [20、如何画架构图](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.21.md)
   * [21、项目管理案例分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.22.md)
+  * [22、2022年度总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.23.md)
