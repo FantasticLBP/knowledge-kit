@@ -144,7 +144,7 @@
   * [28、神器Puppeteer](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.28.md)
   * [29、从Vue.js谈谈前端开发的技术栈演变](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.29.md)
   * [30、Javascript 常用工具封装](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.30.md)
-  * [31、浏览器布局与DOM绘制](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.31.md)
+  * [31、事件循环](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.31.md)
   * [32、React核心技术剖析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.32.md)
   * [33、ES6学习总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.33.md)
   * [34、富文本编辑器的原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.34.md)
@@ -156,7 +156,8 @@
   * [40、“Electron” 一个可圈可点的 PC 多端融合方案](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.40.md)
   * [41、sourceMap 闪亮登场](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.41.md)
   * [42、JS原型链与Objective-C内存布局不能说的秘密](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.43.md)
-
+  * [43、Vue 核心原理探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.44.md)
+  * [44、浏览器渲染原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter2%20-%20Web%20FrontEnd/2.45.md)
 * [Chapter3 - Server](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/chapter3.md)
   * [1、利用分页和模糊查询技术实现一个App接口](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.1.md)
   * [2、网页端扫码登录实现原理](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter3%20-%20Server/3.2.md)
