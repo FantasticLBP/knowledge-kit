@@ -24,3 +24,6 @@
   * [20、如何画架构图](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.21.md)
   * [21、项目管理案例分析](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.22.md)
   * [22、2022年度总结](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.23.md)
+  * [23、晋升答辩的逻辑是什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.24.md)
+  * [24、短视频刷多了会变笨吗？怎么样提升我们的表达和思辨能力](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.25.md)
+  * [25、对于”文件“的新认识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.26.md)
