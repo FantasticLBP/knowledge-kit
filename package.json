@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/FantasticLBP/knowledge-kit#readme",
   "devDependencies": {
-    "@commitlint/cli": "^8.3.5",
+    "@commitlint/cli": "^17.6.1",
     "@commitlint/config-conventional": "^8.3.4",
     "husky": "^4.2.3"
   },
