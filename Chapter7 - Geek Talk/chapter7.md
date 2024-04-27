@@ -27,3 +27,5 @@
   * [23、晋升答辩的逻辑是什么？](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.24.md)
   * [24、短视频刷多了会变笨吗？怎么样提升我们的表达和思辨能力](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.25.md)
   * [25、对于”文件“的新认识](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.26.md)
+  * [26、敏捷软件开发和 Scurm Master](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.27.md)
+  * [27、工作感悟和职场思考](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter7%20-%20Geek%20Talk/7.28.md)

@@ -114,3 +114,6 @@
   * [108、精准测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.108.md)
   * [109、汇编学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.109.md)
   * [110、妙用设计模式来设计一个客户端校验器](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.110.md)
+  * [111、写给 iOSer 的鸿蒙开发 tips](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.111.md)
+  * [112、Swift 枚举值内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.112.md)
+  * [113、Swift 结构体和类的内存布局](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.113.md)
