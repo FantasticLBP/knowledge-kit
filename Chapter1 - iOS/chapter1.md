@@ -111,7 +111,7 @@
   * [105、iOS 界面渲染流程](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.105.md)
   * [106、NSUserDefault 底层原理探究](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.106.md)
   * [107、IM技术](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.107.md)
-  * [108、精准测试](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.108.md)
+  * [108、精准测试最佳实践](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.108.md)
   * [109、汇编学习](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.109.md)
   * [110、妙用设计模式来设计一个客户端校验器](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.110.md)
   * [111、写给 iOSer 的鸿蒙开发 tips](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter1%20-%20iOS/1.111.md)
