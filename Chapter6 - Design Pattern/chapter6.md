@@ -25,7 +25,7 @@
   * [20、观察者模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.20.md)
   * [21、模板模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.21.md)
   * [22、模板模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.22.md)
-  * [23、职责链模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.23.md)
+  * [23、责任链模式](https://github.com/FantasticLBP/knowledge-kit/blob/master/Chapter6%20-%20Design%20Pattern/6.23.md)
 
 
 
