@@ -1,2 +1,0 @@
-//print(MemoryLayout.stride(ofValue: str1))
-//print(Mems.memStr(ofVal: &str1))
